@@ -10,5 +10,5 @@
 • Git, GitHub, Storybook, Browser Stack, Figma, Adobe Photoshop, Adobe Illustrator, GitHub Copilot, Claude Code<br />
 • Agile, Responsive Design, Accessibility (WCAG), Component-Driven Development<br />
 
-Latest Project <a href="https://whatsonchain.com" target="_blank">WhatsOnChain</a><br />
-Personal Portfolio <a href="https://brunajs.com/" target="_blank">BrunaJS</a> • <a href="https://www.linkedin.com/in/bruna-radeke-89173149/" target="_blank">LinkedIn</a> • <a href="https://brunajs.com/assets/files/cv/bruna-cv.pdf" target="_blank">CV PDF</a>
+Latest Project [WhatsOnChain](https://whatsonchain.com)<br />
+Personal Portfolio [BrunaJS](https://brunajs.com/) • [LinkedIn](https://www.linkedin.com/in/bruna-radeke-89173149/) • [CV PDF](https://brunajs.com/assets/files/cv/bruna-cv.pdf) • [Cover Letter](https://brunajs.com/assets/files/cv/bruna-cover-letter.pdf)
